@@ -23,6 +23,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 - **Monday, April 8**
   - 11:30am-11:35am: Virtual-thread friendly Go-like channels for Java by [Adam Warski](https://www.linkedin.com/in/adamwarski/)
   - 11:35am-11:40am: Effective ensemble programming. Reflections from 2 years of daily practice by [Paul Wild](https://uk.linkedin.com/in/wildpaul)
+  - 11:40am-11:45am: Putting together a slightly-better-than-mediocre Connect 4 AI [Jonathan Cowling](https://uk.linkedin.com/in/jonathan-cowling) 
 - **Tuesday, April 9**
   - 11:30am-11:35am: Seven minute reflections – a team practice for increased learning by [Kjetil JD](https://www.linkedin.com/in/kjetiljd/)
   - 11:35am-11:40am: How can you influence DevEx in a huge organisation with thousands of engineers by [Amir Abadir](http://www.linkedin.com/in/amirabadir)
