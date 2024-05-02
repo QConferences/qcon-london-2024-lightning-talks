@@ -22,12 +22,12 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 - **Monday, April 8**
   - 11:30am-11:35am: Virtual-thread friendly Go-like channels for Java by [Adam Warski](https://www.linkedin.com/in/adamwarski/)
-  - 11:35am-11:40am: Effective ensemble programming. Reflections from 2 years of daily practice by [Paul Wild](https://uk.linkedin.com/in/wildpaul/)
+  - 11:35am-11:40am: Effective ensemble programming. Reflections from 2 years of daily practice by [Paul Wild](https://linkedin.com/in/wildpaul/)
 - **Tuesday, April 9**
   - 11:30am-11:35am: Seven minute reflections – a team practice for increased learning by [Kjetil JD](https://www.linkedin.com/in/kjetiljd/)
   - 11:35am-11:40am: How can you influence DevEx in a huge organisation with thousands of engineers by [Amir Abadir](http://www.linkedin.com/in/amirabadir)
 - **Wednesday, April 10**
-  - 11:35am-11:40am: Putting together a slightly-better-than-mediocre Connect 4 AI by [Jonathan Cowling](https://uk.linkedin.com/in/jonathan-cowling/)
+  - 11:35am-11:40am: Putting together a slightly-better-than-mediocre Connect 4 AI by [Jonathan Cowling](https://linkedin.com/in/jonathan-cowling/)
   - 14:30pm-14:35pm: Debunking the myths of legacy software - How we adopted safe refactoring to transform legacy software by [Preetha Ramaswamy](https://www.linkedin.com/in/preetha-ramaswamy)
   - 14:35am-14:40am: Using agent based Modelling to Improve LLM agents by [Ben Gamble](http://www.linkedin.com/in/bengamble7)
 
